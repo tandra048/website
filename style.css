@@ -1,0 +1,70 @@
+/* common shared style*/
+body{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0px;
+    background-color: aliceblue;
+}
+header{
+    display: flex;
+}
+.headeing{
+    position: absolute;
+    top: 30%;
+    left:60%;
+}
+.body-img{
+    width: 527.929px;
+height: 527.929px;
+border-radius: 527.929px;
+background: rgba(241, 91, 34, 0.20);
+}
+
+.btn{
+    background-color: orange;
+    border-radius: 5px;
+    padding:10px;
+    color: white;
+}
+
+.body-part{
+    display: flex;
+    width: 100%;
+    padding: 20px;
+}
+.body-desc{
+    position: absolute;
+    left: 60%;
+}
+#header-text{
+    text-align: center;
+}
+.plans{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:20px;
+    padding-right:10px 40px;
+    text-align: center;
+    
+}
+.plans-container{
+
+    margin:20px;
+    padding: 20px;
+
+    
+}
+.container{
+    display: flex;
+    position: absolute;
+}
+
+footer{
+    margin: auto;
+    padding: 30px;
+}
+.footer-container{
+    display: flex;
+}
+
